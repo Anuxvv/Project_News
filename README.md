@@ -1,1 +1,1 @@
-# Project_News
+# Project_Samachar - The News Website project is an interactive web application built using HTML, CSS, and JavaScript, leveraging the News API to fetch and display the latest news articles from various sources. The website aims to provide users with a seamless and engaging experience, enabling them to browse, filter, and read news articles on different topics.
